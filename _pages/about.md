@@ -27,3 +27,9 @@ My research has been published in top-tier psychology and general-interest journ
 - [The Daily Beast](http://www.thedailybeast.com/articles/2015/08/08/want-to-change-anti-vaxxers-minds-show-them-the-horrors-of-disease.html)
 
 ## Powell, Yu, DeWolf, & Holyoak, 2017, *Psychological Science*
+
+- [MSN.com](https://www.msn.com/en-ca/money/topstories/you%E2%80%99re-reading-online-product-reviews-all-wrong/ar-AAqZCLl?li=AAgh0dA&srcref=rss)
+- [Lifehacker](https://www.lifehacker.com.au/2017/08/dont-judge-a-product-by-the-number-of-reviews-it-has/)
+- [Quartz](https://qz.com/1072471/this-mistake-makes-us-buy-junky-stuff-online/)
+- [MarketWatch](http://www.marketwatch.com/story/youre-reading-online-product-reviews-all-wrong-2017-08-30?siteid=rss&rss=1)
+- [The New York Post](https://nypost.com/2017/08/23/people-are-complete-suckers-for-online-reviews/)
