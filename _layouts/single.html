@@ -13,6 +13,7 @@ layout: default
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 <div id="main" role="main">
   {% include sidebar.html %}
@@ -55,8 +56,9 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
-
+    
+        {% if page.doi %}<div data-badge-details="right" data-badge-type="large-donut" data-doi={{ page.doi }} data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="50" class="altmetric-embed"></div>{% endif %}
+       </section>
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
