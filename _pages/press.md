@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Press Coverage"
+permalink: /press/
+author_profile: true
+redirect_from:
+  - /press
+---
+
 # Selected Press Coverage
 
 ## Horne, Powell, Hummel, & Holyoak, 2015, *PNAS*
