@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ author:
   avatar           : "profile.png"
   bio              : "I come from WI"
   location         : "Bay Area, CA"
-  employer         :
+  employer         : "Stanford University"
   googlescholar    : "https://scholar.google.com/citations?user=peqnQjMAAAAJ&hl=en"
-  email            :
+  email            : "derekpowell@stanford.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "derekpowell"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
