@@ -14,6 +14,8 @@ My Research
 =====================================
 Through experiments and computational cognitive modeling, my research program examines inter- actions within systems of beliefs, which I view as central to understanding higher-level cognition and behavior. I have come to focus on two important questions: (1) why are misconceptions so widespread and stubbornly resistant to change? and (2) why does our knowledge and awareness of facts so often fail to translate into optimal behavior? I have chosen to examine these questions in domains with the potential for positive real-world impacts, including health and science education.
 
+My research has been published in top-tier psychology and general-interest journals, including *PNAS*, *Psychological Science*, and *Psychological Bulletin*. 
+
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
