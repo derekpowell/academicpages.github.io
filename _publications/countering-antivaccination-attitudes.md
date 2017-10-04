@@ -7,7 +7,7 @@ excerpt: 'This paper examined ways to improve attitudes toward vaccinations and 
 date: 2015-06-11
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'http://academicpages.github.io/files/Horne-Powlel-etal-2015.pdf'
-citation: "8. Horne, Z., **Powell, D.**, Hummel, J. E., & Holyoak, K. J. (2015). Countering antivaccination attitudes. *Proceedings of the National Academy of Science*, *112*(33), 10321-10324."
+citation: "Horne, Z., **Powell, D.**, Hummel, J. E., & Holyoak, K. J. (2015). Countering antivaccination attitudes. *Proceedings of the National Academy of Science*, *112*(33), 10321-10324."
 doi: '10.1073/pnas.1504019112'
 ---
 
