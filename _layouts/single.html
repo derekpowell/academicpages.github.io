@@ -9,7 +9,7 @@ layout: default
 {% endif %}
 
 {% if page.citation %}
-  {% assign citation = post.citation | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign citation = page.citation | markdownify | remove: "<p>" | remove: "</p>" %}
 {% endif %}
 
 
