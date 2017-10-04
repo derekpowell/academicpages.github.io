@@ -26,13 +26,12 @@
       </div>
     {% endif %}
     {% if post.collection == 'publications' %}
-    <h3 class="archive__item-title" itemprop="headline">
+    <class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ post.citation }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.citation }}</a>
       {% endif %}
-    </h3>
     {% else %}
         <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
