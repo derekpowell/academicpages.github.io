@@ -1,5 +1,6 @@
 ---
 title: "Countering Antivaccination Attitudes"
+type: "biblio"
 collection: publications
 permalink: /publication/countering-antivaccination-attitudes
 excerpt: 'This paper examined ways to improve attitudes toward vaccinations and overcome vaccine skepticism.'
