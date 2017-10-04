@@ -7,7 +7,7 @@ excerpt: ''
 date: 2016-05-16
 venue: 'Psychological Science'
 paperurl: 'http://derekpowell.github.io/files/Pritschet-Powell-Horne-2016.pdf'
-citation: "Pritschet, L., Powell, D., & Horne, Z. (2016). The love of large numbers: A popularity bias in consumer choice. *Psychological Science*. *27*(7), 1036-1042."
+citation: "Pritschet, L., **Powell, D.**, & Horne, Z. (2016). The love of large numbers: A popularity bias in consumer choice. *Psychological Science*. *27*(7), 1036-1042."
 doi: '10.1177/0956797616645672'
 ---
 
