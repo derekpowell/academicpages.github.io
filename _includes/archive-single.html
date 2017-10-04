@@ -11,10 +11,11 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-  {% assign citation = post.citation | markdownify | remove: "<p>" | remove: "</p>" %}
+  
 {% if post.citation %}
-
+  {% assign citation = post.citation | markdownify | remove: "<p>" | remove: "</p>" %}
 {% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
