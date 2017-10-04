@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://derekpowell.github.io/files/cv-powell-09-28-2017.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
