@@ -5,7 +5,7 @@ permalink: /publication/moral-severity
 excerpt: ''
 date: 2017-03-06
 venue: 'Experimental Psychology'
-paperurl: 'http://derekpowell.github.io/files/Holyoak-Powell-2016.pdf'
+paperurl: 'http://derekmpowell.com/files/Holyoak-Powell-2016.pdf'
 citation: "**Powell, D.**, & Horne, Z. (2017). Moral severity is represented as a domain-general magnitude. *Experimental Psychology*, *64*, 142-147."
 doi: '10.1027/1618-3169/a000354'
 ---

@@ -5,7 +5,7 @@ permalink: /publication/belief-updating
 excerpt: ''
 date: 2013-03-06
 venue: 'Review of Philosophy and Psychology'
-paperurl: 'http://derekpowell.github.io/files/Holyoak-Powell-2016.pdf'
+paperurl: 'http://derekmpowell.com/files/Holyoak-Powell-2016.pdf'
 citation: "Horne, Z., **Powell, D.** & Spino, J. (2013). Belief updating in moral dilemmas. *Review of Philosophy and Psychology*, *4*, 705-714."
 doi: '10.1027/1618-3169/a000354'
 ---
