@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Derek Powell"
   avatar           : "derek_profile.png"
-  bio              : "Postdoctoral scholar in Psychology at Stanford University. PhD in Cognitive Psychology from University of California, Los Angeles."
+  bio              : "Postdoctoral scholar in Psychology at Stanford University."
   location         : "Bay Area, CA"
   employer         : "Stanford University"
   googlescholar    : "https://scholar.google.com/citations?user=peqnQjMAAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
