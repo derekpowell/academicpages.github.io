@@ -81,7 +81,7 @@ author:
   name             : "Derek Powell"
   avatar           : "derek_profile.png"
   bio              : "Postdoctoral scholar in Psychology at Stanford University."
-  location         : "Bay Area, CA"
+  location         : #"Bay Area, CA"
   employer         : "Stanford University"
   googlescholar    : "https://scholar.google.com/citations?user=peqnQjMAAAAJ&hl=en"
   email            : "derekpowell@stanford.edu"
