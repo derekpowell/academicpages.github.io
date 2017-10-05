@@ -19,6 +19,14 @@ layout: default
   {% endunless %}
 {% endif %}
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+<style> 
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+</style>
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -50,7 +58,7 @@ layout: default
              
         
         {% if page.citation %}
-          <p> {{ citation }} </p>
+          <p class="hangingindent"> {{ citation }} </p>
         {% endif %}
     
         </header>
