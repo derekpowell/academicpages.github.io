@@ -17,8 +17,10 @@ redirect_from:
 
 ## Powell, Yu, DeWolf, & Holyoak, 2017, *Psychological Science*
 
+- [New York Magazine](https://www.thecut.com/2017/10/the-cognitive-bias-that-makes-you-bad-at-online-shopping.html)
 - [The London Times](https://www.thetimes.co.uk/article/why-it-pays-to-shop-like-a-statistician-fsjdp269l)
 - [MSN.com](https://www.msn.com/en-ca/money/topstories/you%E2%80%99re-reading-online-product-reviews-all-wrong/ar-AAqZCLl?li=AAgh0dA&srcref=rss)
+- [Reader's Digest](https://www.rd.com/advice/saving-money/online-shopping-mistake/)
 - [Lifehacker](https://www.lifehacker.com.au/2017/08/dont-judge-a-product-by-the-number-of-reviews-it-has/)
 - [Quartz](https://qz.com/1072471/this-mistake-makes-us-buy-junky-stuff-online/)
 - [MarketWatch](http://www.marketwatch.com/story/youre-reading-online-product-reviews-all-wrong-2017-08-30?siteid=rss&rss=1)
