@@ -8,7 +8,7 @@ date: 2017-11-11
 venue: 'Psychological Science'
 paperurl: 
 citation: "**Powell, D.**, Keil, M., Brenner, D., Lim, L., & Markman, E. M. (Conditionally Accepted). Misleading health consumers through violations of communicative norms: A case-study of online diabetes education. *Psychological Science*."
-doi: '10.1177/0956797617711291'
+doi: 
 ---
 
 # Abstract
