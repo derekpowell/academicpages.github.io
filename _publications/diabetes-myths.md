@@ -4,10 +4,10 @@ type: "biblio"
 collection: publications
 permalink: /publication/diabetes-myths
 excerpt: ''
-date: 2017-11-11
+date: 2018-02-09
 venue: 'Psychological Science'
 paperurl: 
-citation: "**Powell, D.**, Keil, M., Brenner, D., Lim, L., & Markman, E. M. (Conditionally Accepted). Misleading health consumers through violations of communicative norms: A case-study of online diabetes education. *Psychological Science*."
+citation: "**Powell, D.**, Keil, M., Brenner, D., Lim, L., & Markman, E. M. (Forthcoming). Misleading health consumers through violations of communicative norms: A case-study of online diabetes education. *Psychological Science*."
 doi: 
 ---
 
