@@ -22,9 +22,9 @@ Here, I'll show you how to use Docker to create reproducible workflows for scien
 
 Docker is a tool for making containerized applications. The docker engine is like a very lightweight virtual machine engine. A virtual machine is (to oversimplify) a computer program that simulates another computer system, typically another operating system. This allows you to run a windows app on your mac, or a linux progam on windows, and so forth.
 
-Docker creates a "containerized" version of an application that includes everything needed to run the app: OS, headers, libraries, packages, etc. This allows people working on different computers, with different OS versions, package versions, etc to share and execute code or apps. This way the apps continue to run even if the environments change. 
+Docker creates a "containerized" version of an application that includes everything needed to run the app: OS, headers, libraries, packages, etc. This container is saved as an "image", that can shared with others. This allows people working on different computers, with different OS versions, package versions, etc to share and execute code or apps. So long as you have Docker installed on your computer and the right Docker image, you can spin up a container that will exactly reproduce the environment needed for the app, no matter what your own personal computing environment looks like.
 
-Maybe you're seeing how this can help us do reproducible research: if we create a containerized version of R, we can ensure we have R, R packages, system libraries, etc all in the right versions to reproduce the analyses. And because it's in a container, if we share it with another researcher, or with our future selves, it won't matter that they might have a different computer with different OS, packages, etc.
+Maybe you're seeing how this can help us do reproducible research: if we create a containerized version of R, we can ensure we have R, R packages, system libraries, etc all in the right versions to reproduce the analyses. And because everything is held together in the container, if we share the image with another researcher, or with our future selves, it won't matter that they might have a different computer with different OS, packages, etc.
 
 ## The Rocker Project
 
@@ -67,11 +67,13 @@ brew install docker-machine-completion
 
 ## 2. Make your Docker cloud account
 
-When you first launch Docker it should prompt you to sign in or create a Docker cloud account. Alternately, you can go to [hub.docker.com](https://hub.docker.com/) and create an account there. Eventually, this will host your own personalized docker images (part 2 of this series). But for now you can poke around and see what's out there (tons of stuff).
+When you first launch Docker it should prompt you to sign in or create a Docker cloud account. Alternately, you can go to [hub.docker.com](https://hub.docker.com/) and create an account there. Dockerhub is a centralized store for docker images (saved containers). In the next step, we'll grab an image from dockerhub to run a container our machine. Eventually, this will host your own personalized docker images (part 2 of this series). 
+
+In the next step, we'll load the [tidyverse container](https://hub.docker.com/r/rocker/tidyverse/) from the rocker project's page on dockerhub. 
 
 ## 3. Run a docker image from docker hub
 
-Ok, now let's actually get a docker container image running on our machine. First, make sure Docker is running (check the menubar for the icon). Then, head back over to terminal and enter the following command:
+Ok, now let's actually get a docker container image running on our machine. First, make sure Docker is running on your machine (check the menubar for the icon). Then, head back over to terminal and enter the following command:
 
 ```bash
 docker run -d -p 8787:8787 -v "`pwd`":/home/rstudio/working -e PASSWORD=rstudio -e ROOT=TRUE rocker/tidyverse:3.4.3
@@ -113,4 +115,4 @@ To fix this, access the docker preferences via the menu button and select the "a
 
 ## Coming up next ...
 
-That's it for Part 1 of this series. Next, in Part 2 we'll discuss customizing a docker image with your own personal R environment.
+That's it for Part 1 of this series. Next, in Part 2 we'll discuss customizing a docker image with your own personal R environment. Till then you might want to poke around a bit and see what's available on dockerhub. I won't cover it's use in this series, but if you do any work in python, the [jupyter notebook datascience container](https://hub.docker.com/r/jupyter/datascience-notebook/) is worth checking out.
