@@ -8,7 +8,7 @@ tags:
   - Reproducibility
 ---
 
-In scientific research, reproducibility is a necessary (though not sufficient) condition for validity. But conducting reproducible research is hard! Sadly, many psychological studies [fail](As  a psychologist, when we conduct a study, we believe that researchers ought to be able to re-run your experiments or studies and obtain similar results (empirical reproducibility)) tests of empirical reproducibility.  Unfortunately, there's no software package that can solve the set of structural and statistical issues likely at the root of those non-replications. 
+In scientific research, reproducibility is a necessary (though not sufficient) condition for validity. But conducting reproducible research is hard! Sadly, many psychological studies [fail](https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248) tests of empirical reproducibility.  Unfortunately, there's no software package that can solve the set of structural and statistical issues likely at the root of those non-replications. 
 
 Still, there are some tools that can help us achieve statistical or computational reproducibility. This kind of reproducibility means that another researcher can take _our data_ and reproduce the analyses we conducted in a published paper. Sadly again, many studies in psychology [fail here too](https://www.nature.com/news/stat-checking-software-stirs-up-psychology-1.21049). However, here the problem really might be solved with better tools--tools like [R Markdown](https://rmarkdown.rstudio.com/) that can help ensure that our results sections are reflective of our actual analyses.
 
