@@ -84,7 +84,7 @@ Do note that using an original password (and possibly username) is much more imp
 
 Now that you've got RStudio running remotely, there are a few different ways to get your files onto it. The most direct is to upload them from the files window in the web interface. You can also securely copy them using ssh and the `scp` command.
 
-<html><center><img src="/images/Rstudio_upload.png" alt="uploading files to rstudio" style="width: 66%;"/></center></html>
+<html><center><img src="/images/RStudio_upload.png" alt="uploading files to rstudio" style="width: 66%;"/></center></html>
 
 My personal preference is to interface with github. I save all my R projects as github repositories, and clone whatever I'm working on to the remote machine. You can do this through command-line, or directly in the rstudio interface: Go to `File -> New Project -> Version Control -> Git` and enter the repository name. After you enter your username and password, the files will be cloned to the remote machine and you can commit-push when you are done working.
 
