@@ -192,7 +192,7 @@ docker run -d -p 8787:8787 -e USER=yourName -e PASSWORD=secretPassword -e ROOT=T
 
 Voilà!
 
-![solarized dark theme](/images/Rstudio_sd.png)
+![solarized dark theme](/images/RStudio_sd.png)
 
 You can extend this general approach to run whatever commands or set whatever settings you like. For more advanced users, here's more information on the [init setup](https://github.com/just-containers/s6-overlay) being used by the Rocker images.
 
