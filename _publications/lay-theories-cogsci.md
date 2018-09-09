@@ -3,7 +3,7 @@ title: "Articulating lay theories through graphical models: A study of beliefs s
 collection: publications
 permalink: /publication/lay-theories-cogsci
 excerpt:
-date: 2018-08-01
+date: 2018-08-02
 venue: 'Proceedings of the 40th Annual Conference of the Cognitive Science Society'
 paperurl: 'https://mindmodeling.org/cogsci2018/papers/0183/0183.pdf'
 citation: "**Powell, D.**, Weisman, K., & Markman, E. M. (2018). Articulating lay theories through graphical models: A study of beliefs surrounding vaccination decisions. *Proceedings of the 40th Annual Conference of the Cognitive Science Society.*"
