@@ -12,10 +12,7 @@ I'm a postdoctoral scholar at Stanford University, working under Ellen Markman. 
 
 # My Research
 
-Through experiments and computational cognitive modeling, my research program examines interactions within systems of beliefs, which I view as central to understanding higher-level cognition and behavior. Presently, I am focused on two important questions:
+My research asks how our beliefs are formed, how they are revised, and how they fit together with one another into larger systems. Through experiments and computational cognitive modeling, I work to examine interactions within systems of beliefs, which I view as central to understanding higher-level cognition and behavior.
 
-1. Why are misconceptions so widespread and stubbornly resistant to change?
-2. Why does our knowledge and awareness of facts so often fail to translate into optimal behavior?
-
-My research has been published in top-tier psychology and general-interest journals, including *PNAS*, *Psychological Science*, and *Psychological Bulletin*. 
+My work has been published in top-tier psychology and general-interest journals, including *PNAS*, *Psychological Science*, and *Psychological Bulletin*. 
 
