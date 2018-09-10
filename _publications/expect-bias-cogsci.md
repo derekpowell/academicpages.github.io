@@ -2,12 +2,12 @@
 title: "Expectations bias judgments of harm against others"
 collection: publications
 permalink: /publication/expect-bias-cogsci
-excerpt:
+excerpt: ''
 date: 2018-08-01
 venue: 'Proceedings of the 40th Annual Conference of the Cognitive Science Society'
 paperurl: 'https://mindmodeling.org/cogsci2018/papers/0436/0436.pdf'
 citation: "**Powell, D.**, & Horne, Z. (2018). Expectations bias judgments of harm against others. *Proceedings of the 40th Annual Conference of the Cognitive Science Society.*
-doi: 
+doi: ''
 ---
 
 # Abstract
