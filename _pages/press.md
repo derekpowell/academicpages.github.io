@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Selected Press Coverage"
-permalink: /press/
+permalink: /press
 author_profile: true
 redirect_from:
-  - /press
+  - /press/
 ---
 ## Powell, Yu, DeWolf, & Holyoak, 2017, *Psychological Science*
 
