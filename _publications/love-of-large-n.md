@@ -6,7 +6,7 @@ permalink: /publication/love-of-large-n
 excerpt: ''
 date: 2017-04-01
 venue: 'Psychological Science'
-paperurl: 'http://derekmpowell.com/files/Powell-etal-2017.pdf'
+paperurl: '/files/powell-etal-2017-psychsci.pdf'
 citation: "**Powell, D.**, Yu, J., DeWolf, M., & Holyoak, K. J. (2017). The love of large numbers: A popularity bias in consumer choice. *Psychological Science*, *28*(10), 1432-1442."
 doi: '10.1177/0956797617711291'
 ---

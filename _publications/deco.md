@@ -5,7 +5,7 @@ permalink: /publication/deco
 excerpt: ''
 date: 2016-10-06
 venue: 'Psychological Bulletin'
-paperurl: 'http://derekmpowell.com/files/Holyoak-Powell-2016.pdf'
+paperurl: '/files/Holyoak-Powell-2016.pdf'
 citation: "Holyoak, K. J., & **Powell, D.** (2016). Deontological Coherence: A framework for commonsense moral reasoning. *Psychological Bulletin*, *142*(11), 1179-1203."
 doi: '10.1037/bul0000075'
 ---
